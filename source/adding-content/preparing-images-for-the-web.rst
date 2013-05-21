@@ -3,6 +3,11 @@
 Preparare le immagini per il web
 ==================================
 
+:Data: 03-05-2013
+:Traduzione: Luca De Giorgi
+:Impaginazione: Luca De Giorgi
+:Revisione:
+
 Preparare le immagini per il web è una parte essenziale per utilizzare le immagini in Plone,
 come in qualsiasi contesto online.
 Come vedrai, le dimensioni contano.
