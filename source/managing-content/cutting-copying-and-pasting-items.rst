@@ -1,6 +1,11 @@
 Tagliare, Copiare e Incollare contenuti
 =======================================
 
+:Data: 08-05-2013
+:Traduzione: Luca De Giorgi
+:Impaginazione: Luca De Giorgi
+:Revisione:
+
 Le operazioni taglia, copia e incolla comportano lo spostamento di uno o più contenuti
 da una cartella ad un'altra
 
